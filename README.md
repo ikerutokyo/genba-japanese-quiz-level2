@@ -1,3 +1,3 @@
-# genba-japanese-quiz
+# kensetsugenba-japanese-quiz
 なにを べんきょうしたい？
 えらんで！
