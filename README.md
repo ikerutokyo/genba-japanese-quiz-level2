@@ -1,3 +1,3 @@
-# kensetsugenba-japanese-quiz
+# けんせつげんば で つかう にほんご れんしゅう
 なにを べんきょうしたい？
 えらんで！
